@@ -82,6 +82,14 @@ git clone https://github.com/CleberSebrian/GeoNat-Layout-Automation.git
 
 ---
 
+## Screenshots
+
+### Dynamic Layout Automation
+
+![Layout Automation](images/layout_automation.png)
+
+---
+
 ## Use Cases
 
 - Environmental reports
@@ -101,6 +109,7 @@ GeoNat-Layout-Automation/
 ├── requirements.txt
 ├── scripts/
 └── images/
+    └── layout_automation.png
 ```
 
 ---
@@ -132,3 +141,9 @@ GIS Developer focused on:
 - Cartographic Production
 - Remote Sensing
 - Geospatial Systems
+
+---
+
+## Keywords
+
+`QGIS` `PyQGIS` `Cartography` `GIS Automation` `Atlas` `Map Production` `Python`
